@@ -1,5 +1,5 @@
 -- main module file
-local module = require("motion_preview.module")
+local module = require("motion-preview.module")
 
 local movement_keys = {
   ["w"] = "w",
